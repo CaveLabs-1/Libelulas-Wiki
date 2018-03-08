@@ -11,7 +11,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * [Modelo Entidad Relacion](https://github.com/CaveLabs-1/Libelulas/blob/master/documentacion/MER_LIBELULAS.pdf)
 * [Componentes del Sistema 1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Componentes%20del%20Sistema.pdf)
 * [Definición de Arquitectura Inicial 1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Definici%C3%B3n%20Arquitectura.pdf)
-* [Flujo de Vistas y Arquitectura Inicial 1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Flujo%20de%20vistas%20y%20Arquitectura%20inicial.pdf)
+* [Flujo de Vistas y Arquitectura Inicial 1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Flujo%20de%20Vista%20y%20Arquitectura%20Incial1_1.pdf)
 
 --
 
