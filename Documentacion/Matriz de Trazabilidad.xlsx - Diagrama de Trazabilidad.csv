@@ -1,0 +1,49 @@
+,,,,,,,,,
+,ID,CASOS DE USO,Análisis,Aprobado,Diseñado,Implementado,Pruebas,Autorizado,Operando
+,1,Yo como administrador quiero iniciar sesión,si,si,si,si,si,No,No
+,2,Yo como administrador quiero cerrar sesión,si,si,si,si,si,no,no
+,3,Yo como super-administrador quiero registrar un administrador,si,si,si,si,si,no,no
+,4,Yo como super-administrador quiero visualizar un administrador,si,si,si,si,si,no,no
+,5,Yo como super-administrador quiero actualizar un administrador,si,si,si,si,si,no,no
+,6,Yo como super-administrador quiero eliminar un administrador,si,si,si,si,si,no,no
+,7,Yo como administrador quiero registrar un torneo,si,si,si,si,si,no,no
+,8,Yo como administrador quiero visualizar un torneo,si,si,si,si,si,no,no
+,9,Yo como administrador quiero actualizar un torneo,si,si,si,si,si,no,no
+,10,Yo como administrador quiero eliminar un torneo,si,si,si,si,si,no,no
+,11,Yo como administrador quiero registrar una convocatoria,si,si,si,no,no,no,no
+,12,Yo como administrador quiero visualizar una convocatoria,si,si,si,no,no,no,no
+,13,Yo como administrador quiero actualizar una convocatoria,si,si,si,no,no,no,no
+,14,Yo como administrador quiero eliminar una convocatoria,si,si,si,no,no,no,no
+,15,Yo como administrador quiero registrar un equipo,si,si,si,si,si,no,no
+,16,Yo como administrador quiero visualizar un equipo,si,si,si,si,si,no,no
+,17,Yo como administrador quiero actualizar un equipo,si,si,si,si,si,no,no
+,18,Yo como administrador quiero eliminar un equipo,si,si,si,si,si,no,no
+,19,Yo como administrador quiero generar una liga de pre-registro,si,si,no,no,no,no,no
+,20,Yo como administrador quiero validar el pre-registro de un equipo,si,si,no,no,no,no,no
+,21,Yo como administrador quiero registrar una jugadora,si,si,si,si,si,no,no
+,22,Yo como administrador quiero visualizar una jugadora,si,si,si,si,si,no,no
+,23,Yo como administrador quiero actualizar una jugadora,si,si,si,si,si,no,no
+,24,Yo como administrador quiero eliminar una jugadora,si,si,si,si,si,no,no
+,25,Yo como administrador quiero validar el pre-registro de una jugadora,si,si,no,no,no,no,no
+,26,Yo como administrador quiero cerrar el pre-registro de un torneo,si,si,no,no,no,no,no
+,27,Yo como administrador quiero cerrar el registro de un torneo,si,si,si,no,no,no,no
+,28,Yo como administrador quiero modificar el rol de juego de un torneo,si,si,no,no,no,no,no
+,29,Yo como administrador quiero generar un documento de acceso a las cédulas para el árbitro,si,si,si,no,no,no,no
+,30,Yo como administrador quiero modificar un partido,si,si,no,no,no,no,no
+,31,Yo como administrador quiero penalizar a un equipo,si,si,no,no,no,no,no
+,32,Yo como árbitro quiero acceder a una cédula,si,si,no,no,no,no,no
+,33,Yo como árbitro quiero imprimir una cédula,si,si,no,no,no,no,no
+,34,Yo como árbitro quiero registrar una cédula en el sitio,si,si,no,no,no,no,no
+,35,Yo como coach quiero acceder al pre-registro,si,si,no,no,no,no,no
+,36,Yo como coach quiero registrar un equipo,si,si,no,no,no,no,no
+,37,Yo como coach quiero registrar jugadoras,si,si,no,no,no,no,no
+,38,Yo como visitante quiero consultar la información general,si,si,si,si,si,no,no
+,39,Yo como visitante quiero consultar el contenido de facebook,si,si,no,no,no,no,no
+,40,Yo como visitante quiero consultar convocatorias,si,si,no,no,no,no,no
+,41,Yo como visitante quiero consultar un torneo,si,si,si,no,no,no,no
+,42,Yo como visitante quiero consultar la tabla general de un torneo,si,si,no,no,no,no,no
+,43,Yo como visitante quiero consultar las estadísticas de un torneo,si,si,no,no,no,no,no
+,44,Yo como visitante quiero consultar un partido,si,si,no,no,no,no,no
+,45,Yo como visitante quiero consultar un equipo,si,si,no,no,no,no,no
+,46,Yo como visitante quiero consultar una jugadora,si,si,no,no,no,no,no
+,47,Yo como visitante quiero solicitar un pre-registro a un torneo,si,si,no,no,no,no,no
