@@ -16,7 +16,6 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 
 
 ## Construcción
-* [Estatus del Projecto General]
 * Estatus del Projecto Primera Iteracion
   * [WBS](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%201)%20-%20WBS.csv)
   * [Report](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%201)%20-%20Report%20.csv)
@@ -25,14 +24,14 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
   * [EV vs PV](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%201)%20-%20PV%20vs%20EV.pdf)
   * [AC vs EC](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%201)%20-%20EC%20vs%20AC.pdf)
   * [Retrospectiva](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Cierre%20de%20Iteraci%C3%B3n.pdf)
-* [Estatus del Projecto Segunda Iteracion]
+* Estatus del Projecto Segunda Iteracion
   * [WBS](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%202)%20-%20WBS.csv)
   * [Report](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%202)%20-%20Report%20.csv)
   * [EV](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%202)%20-%20EV.csv)
   * [AC](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%202)%20-%20AC.csv)
   * [EV vs PV](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%202)%20-%20PV%20vs%20EV.pdf)
   * [AC vs EC](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%202)%20-%20EC%20vs%20AC.pdf)
-* Estatus del Projecto Tercera Iteracion
+* Estatus del Projecto General
   * [Datos](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20General%20Plan%20Libelulas%20-%20Datos.csv)
   * [AC vs EC](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20General%20Plan%20Libelulas%20-%20EC%20%26%20AC.pdf)
   * [EV vs PV](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20General%20Plan%20Libelulas%20-%20PV%20%26%20EV.pdf)
