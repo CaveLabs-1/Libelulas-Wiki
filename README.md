@@ -34,7 +34,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
   * [Costo Actual](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%202)%20-%20AC.csv)
   * [Valor Planeado vs Valor Ganado](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%202)%20-%20PV%20vs%20EV.pdf)
   * [Costo Estimado vs Costo Actual](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteraci%C3%B3n%202)%20-%20EC%20vs%20AC.pdf)
-  * Estatus del Projecto Tercera Iteracion
+ * Estatus del Projecto Tercera Iteracion
   * [Datos y Gráficas](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20Proyecto%20Libelula%20(Iteración%203).pdf)
 * Estatus del Projecto General
   * [Datos y Gráficas](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20General%20Plan%20Libelulas.pdf)
