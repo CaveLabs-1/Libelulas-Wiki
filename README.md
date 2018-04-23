@@ -45,7 +45,7 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 * Estatus del Projecto General
   * [Datos y Gráficas](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Estatus%20General%20Plan%20Libelulas.pdf)
   * [PSP/Defects Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/2)
- * [Acciones Correctivas](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Acciones%20Correctivas.odt?raw=true)
+  * [Acciones Correctivas](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Acciones%20Correctivas.odt?raw=true)
 --
 
 Última edición: @MarcoMancha abril 20, 2018
