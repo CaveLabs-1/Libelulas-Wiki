@@ -15,8 +15,8 @@ Estos documentos están bajo el control de versiones.
 * [Guía Arbitro v1.0](): Se agregó la guía del árbitro para que los árbitros contaran con su propia guía para registrar una cédula
 * [Guía Coach v1.0](): Se agregó la guía de coach debido al módulo de pre-registro que es únicamente para coaches
 * [Handbook de Arquitectura]()
-* [Model Goal Question Metric](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Modelo%20Goal%20Question%20Metric%20.pdf)
-* [Resultados de Heurística](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Resultados%20Plantilla%20Heurística.pdf)
+* [Model Goal Question Metric v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Modelo%20Goal%20Question%20Metric%20.pdf)
+* [Resultados de Heurística v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Resultados%20Plantilla%20Heurística.pdf)
 * WBS: El WBS no se agregó a la línea base ya que se hacía constantemente en los estatus del proyecto
 
 
