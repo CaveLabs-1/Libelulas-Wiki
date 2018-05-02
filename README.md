@@ -4,19 +4,19 @@ En este espacio se encuentra toda la documentación correspondiente a los proces
 ## Línea Base
 Estos documentos están bajo el control de versiones.
 
-* [Definición del Proyecto v2.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Project%20Definition.pdf)
-* [Propuesta del Proyecto v2.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Project%20Proposal.pdf)
-* [Componentes del Sistema v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Componentes%20del%20Sistema.pdf)
-* [Flujo de Vistas v1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Flujo%20de%20Vista%20y%20Arquitectura%20Incial1_1.pdf)
-* [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Definici%C3%B3n%20Arquitectura.pdf)
-* [Estimación de Function Points v1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Calculo%20de%20Estimaciones%20-%20Lib%C3%A9lulas.csv)
-* [Manual del Usuario v1.3]()
-* [Guía Administrador v1.0](): Se agregó la guía del administrador debido al módulo de administradores
-* [Guía Arbitro v1.0](): Se agregó la guía del árbitro para que los árbitros contaran con su propia guía para registrar una cédula
-* [Guía Coach v1.0](): Se agregó la guía de coach debido al módulo de pre-registro que es únicamente para coaches
+* [Definición del Proyecto v2.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Requerimientos/Project%20Definition.pdf)
+* [Propuesta del Proyecto v2.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Requerimientos/Project%20Proposal.pdf)
+* [Componentes del Sistema v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Componentes%20del%20Sistema.pdf)
+* [Flujo de Vistas v1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Flujo%20de%20vistas%20y%20Arquitectura%20incial.pdf)
+* [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Definicio%CC%81n%20Arquitectura.pdf)
+* [Estimación de Function Points v1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Requerimientos/Calculo%20de%20Estimaciones%20-%20Lib%C3%A9lulas.csv)
+* [Manual del Usuario v1.3](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Documentaci%C3%B3n%20del%20manual%20de%20usuario.pdf)
+* [Guía Administrador v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Gu%C3%ADa%20Administrador.pdf): Se agregó la guía del administrador debido al módulo de administradores
+* [Guía Arbitro v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Guia%20Arbitro.pdf): Se agregó la guía del árbitro para que los árbitros contaran con su propia guía para registrar una cédula
+* [Guía Coach v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Guia%20Coach.pdf): Se agregó la guía de coach debido al módulo de pre-registro que es únicamente para coaches
 * [Handbook de Arquitectura]()
-* [Model Goal Question Metric v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Modelo%20Goal%20Question%20Metric%20.pdf)
-* [Resultados de Heurística v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Resultados%20Plantilla%20Heurística.pdf)
+* [Model Goal Question Metric v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/MA/Modelo%20Goal%20Question%20Metric%20.pdf)
+* [Resultados de Heurística v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Resultados%20Plantilla%20Heur%C3%ADstica.pdf)
 * WBS: El WBS no se agregó a la línea base ya que se hacía constantemente en los estatus del proyecto
 * [Código](https://github.com/CaveLabs-1/Libelulas) 
 
