@@ -30,6 +30,7 @@ Estos documentos están bajo el control de versiones.
 * [Estatus General del Proyecto](https://drive.google.com/open?id=12csrW0TXHzyct444HJx5a1TktiZ2k4J5M9ZK93M35ds)
 * [PSP/Defect Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/2)
 * [Matriz de Riesgos](https://drive.google.com/open?id=1ev_RyfGZwFNkQqEiWgrYpNtW5CWqthURi739BOJG2i8)
+* [Matriz de Trazabilidad](https://docs.google.com/spreadsheets/d/1sVbjxCKYRaNkVFU2mdSC-WND2WeqSws-qR55mtN2M3Y/edit?usp=sharing)
 * [Acciones Correctivas](https://drive.google.com/open?id=1sjo8lv3ldAKpXW0TN5Zy9ODqH4crXOp3r4o9Yy6r9hU)
 
 
