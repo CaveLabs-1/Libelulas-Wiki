@@ -1,4 +1,4 @@
-# Bienvenido a la Wiki oficial de Libelulas
+# Bienvenido a la Wiki oficial de Libélulas
 En este espacio se encuentra toda la documentación correspondiente a los procesos diseñados para el desarrollo de software específicamente para el proyecto de Plan Libélula.
 
 ## Línea Base
@@ -41,4 +41,4 @@ Estos documentos están bajo el control de versiones.
 
 --
 
-Última edición: @pirty6 abril 27, 2018
+Última edición: @pirty6 mayo 2, 2018
