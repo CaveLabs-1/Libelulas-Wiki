@@ -40,4 +40,4 @@ Estos documentos están bajo el control de versiones.
 
 --
 
-Última edición: @pirty6 mayo 3, 2018
+Última edición: @pirty6 mayo 7, 2018
