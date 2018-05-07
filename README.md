@@ -10,7 +10,7 @@ Estos documentos están bajo el control de versiones.
 * [Flujo de Vistas v1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Flujo%20de%20vistas%20y%20Arquitectura%20incial.pdf)
 * [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Definicio%CC%81n%20Arquitectura.pdf)
 * [Estimación de Function Points v1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Requerimientos/Calculo%20de%20Estimaciones%20-%20Lib%C3%A9lulas.csv)
-* [Manual del Usuario v1.3](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Documentaci%C3%B3n%20del%20manual%20de%20usuario.pdf)
+* [Manual del Usuario v1.3](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Manual%20de%20Usuario.pdf)
 * [Guía Administrador v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Gu%C3%ADa%20Administrador.pdf): Se agregó la guía del administrador debido al módulo de administradores
 * [Guía Arbitro v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Guia%20Arbitro.pdf): Se agregó la guía del árbitro para que los árbitros contaran con su propia guía para registrar una cédula
 * [Guía Coach v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Guia%20Coach.pdf): Se agregó la guía de coach debido al módulo de pre-registro que es únicamente para coaches
