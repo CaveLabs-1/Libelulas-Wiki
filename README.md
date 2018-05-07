@@ -23,7 +23,7 @@ Estos documentos están bajo el control de versiones.
 
 ## Línea de Trabajo
 * [Estatus del Proyecto Primera Iteración](https://drive.google.com/open?id=1cq85GxUR_6Kdl3-aUuQ0JdM7rZDlexoZ3Q49vf_-DVo)
-* [Retrospectiva Primera Iteración](https://drive.google.com/open?id=1NLfcDtRCwd7vlbX6bG1JerS_44leUWh3pd9NFhVnR08)
+* [Retrospectiva Primera Iteración](https://docs.google.com/document/d/1NLfcDtRCwd7vlbX6bG1JerS_44leUWh3pd9NFhVnR08/edit?usp=sharing)
 * [Estatus del Proyecto Segunda Iteración](https://drive.google.com/open?id=1yKRF1-2ZvgOv7J7lH26KyEQ1dxmtQoauc_gidgge7kg)
 * [Retrospectiva Segunda Iteración](https://docs.google.com/document/d/1V64Ep4vqqZPecgjbHLw2Rp2Pm88Pa0QksRfsJSc1cEU/edit?usp=sharing)
 * [Estatus del Proyecto Tercera Iteración](https://drive.google.com/open?id=18ygRVnVzYDOj-eribAQ1cHe1-eDvA0RqkpM8KQHk1nc)
