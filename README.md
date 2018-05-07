@@ -18,8 +18,7 @@ Estos documentos están bajo el control de versiones.
 * [Model Goal Question Metric v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/MA/Modelo%20Goal%20Question%20Metric%20.pdf)
 * [Resultados de Heurística v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Resultados%20Plantilla%20Heur%C3%ADstica.pdf)
 * [Código](https://github.com/CaveLabs-1/Libelulas) 
-* [Formato Swat v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/SWATLibelulas.pdf): Resultados de las pruebas del servidor
-
+* [Formato SWAT v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/SWATLibelulas.pdf)
 
 ## Línea de Trabajo
 * [Estatus del Proyecto Primera Iteración](https://drive.google.com/open?id=1cq85GxUR_6Kdl3-aUuQ0JdM7rZDlexoZ3Q49vf_-DVo)
