@@ -14,7 +14,7 @@ Estos documentos están bajo el control de versiones.
 * [Guía Administrador v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Gu%C3%ADa%20Administrador.pdf): Se agregó la guía del administrador debido al módulo de administradores
 * [Guía Arbitro v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Guia%20Arbitro.pdf): Se agregó la guía del árbitro para que los árbitros contaran con su propia guía para registrar una cédula
 * [Guía Coach v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Guia%20Coach.pdf): Se agregó la guía de coach debido al módulo de pre-registro que es únicamente para coaches
-* [Handbook de Arquitectura v1.0]()
+* [Handbook de Arquitectura v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Manual%20Arquitectura%20Plan%20Lib%C3%A9lula.pdf)
 * [Model Goal Question Metric v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/MA/Modelo%20Goal%20Question%20Metric%20.pdf)
 * [Resultados de Heurística v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Resultados%20Plantilla%20Heur%C3%ADstica.pdf)
 * [Código](https://github.com/CaveLabs-1/Libelulas) 
@@ -39,4 +39,6 @@ Estos documentos están bajo el control de versiones.
 
 --
 
-Última edición: @ian 10, 2018
+
+Última edición: @ian mayo 10, 2018
+
