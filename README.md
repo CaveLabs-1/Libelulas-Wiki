@@ -8,7 +8,7 @@ Estos documentos están bajo el control de versiones.
 * [Definición del Proyecto v2.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Requerimientos/Project%20Proposal.pdf)
 * [Componentes del Sistema v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Componentes%20del%20Sistema.pdf)
 * [Flujo de Vistas v1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Flujo%20de%20vistas%20y%20Arquitectura%20incial.pdf)
-* [Arquitectura Inicial v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Definicio%CC%81n%20Arquitectura.pdf)
+* [Arquitectura Inicial v1.2](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Arquitectura/Definici%C3%B3n%20Arquitectura.pdf)
 * [Estimación de Function Points v1.1](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Requerimientos/Calculo%20de%20Estimaciones%20-%20Lib%C3%A9lulas.csv)
 * [Manual del Usuario v1.3](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Manual%20de%20Usuario.pdf)
 * [Guía Administrador v1.0](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Manuales/Gu%C3%ADa%20Administrador.pdf): Se agregó la guía del administrador debido al módulo de administradores
@@ -39,4 +39,4 @@ Estos documentos están bajo el control de versiones.
 
 --
 
-Última edición: @pirty6 mayo 7, 2018
+Última edición: @ian 10, 2018
