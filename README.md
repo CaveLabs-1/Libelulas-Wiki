@@ -27,6 +27,7 @@ Estos documentos están bajo el control de versiones.
 * [Retrospectiva Segunda Iteración](https://docs.google.com/document/d/1V64Ep4vqqZPecgjbHLw2Rp2Pm88Pa0QksRfsJSc1cEU/edit?usp=sharing)
 * [Estatus del Proyecto Tercera Iteración](https://drive.google.com/open?id=18ygRVnVzYDOj-eribAQ1cHe1-eDvA0RqkpM8KQHk1nc)
 * [Retrospectiva Tercera Iteración](https://drive.google.com/open?id=16aHUYlPSZvUSNRVR9FWJRlkvO4Y8UsVYv5iuj3K6ig4)
+* [Estatus del Proyecto Transición](https://drive.google.com/open?id=1FJv0a_tMTmCHRkiAwAo1Z6-bsWEOLXvGKsOAYzZZNb4)
 * [Estatus General del Proyecto](https://drive.google.com/open?id=12csrW0TXHzyct444HJx5a1TktiZ2k4J5M9ZK93M35ds)
 * [PSP/Defect Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/2)
 * [Matriz de Riesgos](https://drive.google.com/open?id=1ev_RyfGZwFNkQqEiWgrYpNtW5CWqthURi739BOJG2i8)
@@ -40,5 +41,5 @@ Estos documentos están bajo el control de versiones.
 --
 
 
-Última edición: @ian mayo 10, 2018
+Última edición: @ian mayo 13, 2018
 
