@@ -25,14 +25,17 @@ Estos documentos están bajo el control de versiones.
 * [Retrospectiva Primera Iteración](https://docs.google.com/document/d/1NLfcDtRCwd7vlbX6bG1JerS_44leUWh3pd9NFhVnR08/edit?usp=sharing)
 * [Estatus del Proyecto Segunda Iteración](https://drive.google.com/open?id=1yKRF1-2ZvgOv7J7lH26KyEQ1dxmtQoauc_gidgge7kg)
 * [Retrospectiva Segunda Iteración](https://docs.google.com/document/d/1V64Ep4vqqZPecgjbHLw2Rp2Pm88Pa0QksRfsJSc1cEU/edit?usp=sharing)
+* [Solicitud de Cambios Tercera Iteración](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Requerimientos/Solicitud%20de%20Cambio%2019%20de%20Abril%202018.pdf)
 * [Estatus del Proyecto Tercera Iteración](https://drive.google.com/open?id=18ygRVnVzYDOj-eribAQ1cHe1-eDvA0RqkpM8KQHk1nc)
 * [Retrospectiva Tercera Iteración](https://drive.google.com/open?id=16aHUYlPSZvUSNRVR9FWJRlkvO4Y8UsVYv5iuj3K6ig4)
+* [Reporte de Entrega Tercera Iteración](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Requerimientos/Reporte%20de%20entrega%2019%20de%20Abril%202018.pdf)
 * [Estatus del Proyecto Transición](https://drive.google.com/open?id=1FJv0a_tMTmCHRkiAwAo1Z6-bsWEOLXvGKsOAYzZZNb4)
 * [Estatus General del Proyecto](https://drive.google.com/open?id=12csrW0TXHzyct444HJx5a1TktiZ2k4J5M9ZK93M35ds)
 * [PSP/Defect Logs](https://cavelabs.herokuapp.com/proyectos/detalle_proyecto/2)
 * [Matriz de Riesgos](https://drive.google.com/open?id=1ev_RyfGZwFNkQqEiWgrYpNtW5CWqthURi739BOJG2i8)
 * [Matriz de Trazabilidad](https://docs.google.com/spreadsheets/d/1sVbjxCKYRaNkVFU2mdSC-WND2WeqSws-qR55mtN2M3Y/edit?usp=sharing)
 * [Acciones Correctivas](https://docs.google.com/spreadsheets/d/1DaRz_D8_JhGLSut2Y7QcmOamFRB-T78RJvB1TqYvw4g/edit?usp=sharing)
+* [Aceptación del sistema](https://github.com/CaveLabs-1/Libelulas-Wiki/blob/master/Documentacion/Requerimientos/requerimientos.pdf)
 
 ## Involucramiento Stakeholders
 * [Minutas](https://github.com/CaveLabs-1/Libelulas-Wiki/tree/master/Minutas)
@@ -41,5 +44,5 @@ Estos documentos están bajo el control de versiones.
 --
 
 
-Última edición: @ian mayo 13, 2018
+Última edición: @pirty6 mayo 14, 2018
 
